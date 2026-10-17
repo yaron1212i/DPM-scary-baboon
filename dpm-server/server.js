@@ -1,0 +1,1 @@
+const ADMIN_KEY = process.env.ADMIN_KEY || "DPM123";
